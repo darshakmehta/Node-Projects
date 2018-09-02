@@ -1,0 +1,5 @@
+node_modules
+*.log*
+playground
+package-lock.json
+notes-data.json

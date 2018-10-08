@@ -97,5 +97,5 @@ describe('POST /todos', () => {
                 .expect(404)
                 .end(done);
         });
-    })
+    });
 });
